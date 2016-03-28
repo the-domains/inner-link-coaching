@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My name is Dave Coenen and I am a business, career and life coach linking to your inner motivation in order for you to be able to  develop yourself personally and professionally.'
-datePublished: '2016-03-28T09:38:03.424Z'
-dateModified: '2016-03-28T09:37:12.474Z'
+datePublished: '2016-03-28T19:41:40.553Z'
+dateModified: '2016-03-28T19:41:40.137Z'
 title: Welcome to Inner Link Coaching
 author: []
 sourcePath: _posts/2016-03-28-welcome-to-inner-link-coaching.md
