@@ -1,7 +1,7 @@
 name: Inner Link Coaching
 favicon: null
-layout_spectrum: 0.26397
-typography_spectrum: 0.49527
+layout_spectrum: 0
+typography_spectrum: 0.05468
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#5ee083'
     - '#337745'
     - '#4da958'
-  brandStrength: 1
-  lightness: 1
+  brandStrength: 0
+  lightness: 0
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
