@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Inner Link Coaching
+favicon: null
+layout_spectrum: 0.2275986
+typography_spectrum: 0.4390681
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.2634408
-  lightness: 0.3082437
   brandColors:
     - '#000000'
     - '#00c8fc'
     - '#5ee083'
     - '#337745'
     - '#4da958'
+  brandStrength: 0.2634408
+  lightness: 0.3082437
+  saturation: 1
   rhythmicContrast: 0.5537634
-typography_spectrum: 0.4390681
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2275986
-favicon: null
-name: Inner Link Coaching
+purpose: []
